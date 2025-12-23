@@ -22,3 +22,10 @@ and risk control.
 ## Limitations
 - Not suitable for high-frequency trading
 - Performance sensitive to trend regime
+
+cta-trend-execution-system/
+├── data/
+├── strategy.py
+├── backtest.py
+├── execution.py
+└── README.md
